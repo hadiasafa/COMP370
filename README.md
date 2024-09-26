@@ -1,1 +1,1 @@
-# COMP370
+Git repository created for COMP370 class.
